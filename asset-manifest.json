@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElementaryReactExercisesHub/static/css/main.89a99d30.css",
+    "main.js": "/ElementaryReactExercisesHub/static/js/main.83182a1b.js",
+    "static/js/787.fdbe14ba.chunk.js": "/ElementaryReactExercisesHub/static/js/787.fdbe14ba.chunk.js",
+    "index.html": "/ElementaryReactExercisesHub/index.html",
+    "main.89a99d30.css.map": "/ElementaryReactExercisesHub/static/css/main.89a99d30.css.map",
+    "main.83182a1b.js.map": "/ElementaryReactExercisesHub/static/js/main.83182a1b.js.map",
+    "787.fdbe14ba.chunk.js.map": "/ElementaryReactExercisesHub/static/js/787.fdbe14ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a99d30.css",
+    "static/js/main.83182a1b.js"
+  ]
+}
